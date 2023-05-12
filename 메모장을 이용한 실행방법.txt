@@ -1,0 +1,9 @@
+cmd(Developer Command Prompt for VS 2022)
+
+1. 메모장에 클래스명 Program 인 코드를 작성한다.
+2. 메모장을 Program.cs(.cs= C#파일임을 명시)
+3. cmd로 들어가 위치를 Program.cs 있는 폴더로 변경 
+4. dir 명령어를 입력하면  현재 폴더에 있는 파일 확인가능
+5. csc Program.cs 입력 csc(컴파일러 명령어)
+6. dir을 입력하면 Program.exe 즉 실행파일이 만들어진 것을 확인 가능함
+7. Program/Program.exe 입력하여 파일을 실행한다. 
