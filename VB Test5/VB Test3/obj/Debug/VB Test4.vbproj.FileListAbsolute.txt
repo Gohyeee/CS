@@ -1,0 +1,12 @@
+C:\Users\heami\VB\source\VB Test3 - 복사본\VB Test3\bin\Debug\VB Test3.exe.config
+C:\Users\heami\VB\source\VB Test3 - 복사본\VB Test3\bin\Debug\VB Test3.exe
+C:\Users\heami\VB\source\VB Test3 - 복사본\VB Test3\bin\Debug\VB Test3.pdb
+C:\Users\heami\VB\source\VB Test3 - 복사본\VB Test3\bin\Debug\VB Test3.xml
+C:\Users\heami\VB\source\VB Test3 - 복사본\VB Test3\obj\Debug\VB Test4.vbproj.AssemblyReference.cache
+C:\Users\heami\VB\source\VB Test3 - 복사본\VB Test3\obj\Debug\VB_Test3.Form1.resources
+C:\Users\heami\VB\source\VB Test3 - 복사본\VB Test3\obj\Debug\VB_Test3.Resources.resources
+C:\Users\heami\VB\source\VB Test3 - 복사본\VB Test3\obj\Debug\VB Test4.vbproj.GenerateResource.cache
+C:\Users\heami\VB\source\VB Test3 - 복사본\VB Test3\obj\Debug\VB Test4.vbproj.CoreCompileInputs.cache
+C:\Users\heami\VB\source\VB Test3 - 복사본\VB Test3\obj\Debug\VB Test3.exe
+C:\Users\heami\VB\source\VB Test3 - 복사본\VB Test3\obj\Debug\VB Test3.xml
+C:\Users\heami\VB\source\VB Test3 - 복사본\VB Test3\obj\Debug\VB Test3.pdb
